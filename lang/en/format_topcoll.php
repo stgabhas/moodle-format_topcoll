@@ -171,6 +171,7 @@ $string['settoggleallhover'] = 'Toggle all icon hover';
 $string['settoggleallhover_help'] = 'Sets if the toggle all icons will change when the mouse moves over them.';
 $string['arrow'] = 'Arrow';
 $string['bulb'] = 'Bulb';
+$string['camera'] = 'Camera';
 $string['cloud'] = 'Cloud';
 $string['eye'] = 'Eye';
 $string['groundsignal'] = 'Ground signal';
@@ -228,7 +229,7 @@ $string['defaulttogglealignment'] = 'Toggle text alignment';
 $string['defaulttogglealignment_desc'] = "'Left', 'Centre' or 'Right'.";
 
 $string['defaulttoggleiconset'] = 'Toggle icon set';
-$string['defaulttoggleiconset_desc'] = "'Arrow'                => Arrow icon set.<br />'Bulb'                 => Bulb icon set.<br />'Cloud'                => Cloud icon set.<br />'Eye'                  => Eye icon set.<br />'Light Emitting Diode' => LED icon set.<br />'Point'                => Point icon set.<br />'Power'                => Power icon set.<br />'Radio'                => Radio icon set.<br />'Smiley'               => Smiley icon set.<br />'Square'               => Square icon set.<br />'Sun / Moon'           => Sun / Moon icon set.<br />'Switch'               => Switch icon set.";
+$string['defaulttoggleiconset_desc'] = "'Arrow'                => Arrow icon set.<br />'Bulb'                 => Bulb icon set.<br />'Camera'               => Camera icon set.<br />'Cloud'                => Cloud icon set.<br />'Eye'                  => Eye icon set.<br />'Light Emitting Diode' => LED icon set.<br />'Point'                => Point icon set.<br />'Power'                => Power icon set.<br />'Radio'                => Radio icon set.<br />'Smiley'               => Smiley icon set.<br />'Square'               => Square icon set.<br />'Sun / Moon'           => Sun / Moon icon set.<br />'Switch'               => Switch icon set.";
 
 $string['defaulttoggleallhover'] = 'Toggle all icon hovers';
 $string['defaulttoggleallhover_desc'] = "'No' or 'Yes'.";
