@@ -438,8 +438,8 @@ class format_topcoll_renderer extends format_section_renderer_base {
                 $o .= html_writer::tag('div', $rightcontent, array('class' => 'right side'));
                 $o .= html_writer::tag('div', $leftcontent, array('class' => 'left side'));
             } else {
-                $o .= html_writer::tag('div', $leftcontent, array('class' => 'left side'));
-                $o .= html_writer::tag('div', $rightcontent, array('class' => 'right side'));
+                //$o .= html_writer::tag('div', $leftcontent, array('class' => 'left side'));
+                //$o .= html_writer::tag('div', $rightcontent, array('class' => 'right side'));
             }
         }
         $o .= html_writer::start_tag('div', array('class' => 'content'));
